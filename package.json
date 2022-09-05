@@ -1,0 +1,27 @@
+{
+  "name": "dobble",
+  "version": "0.0.1",
+  "description": "dobble on tv",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerroh/dobble.git"
+  },
+  "author": "spencer.roh@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spencerroh/dobble/issues"
+  },
+  "homepage": "https://github.com/spencerroh/dobble#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "should": "^13.2.3"
+  }
+}
